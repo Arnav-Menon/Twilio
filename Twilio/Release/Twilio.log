@@ -1,0 +1,8 @@
+﻿  sms.cpp
+C:\Users\19166\Documents\Visual Studio 2019\Kumon\Twilio SMS\Twilio\header\type_conversion.hh(14,41): warning C4101: 'e': unreferenced local variable
+  Generating code
+  8 of 337 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Twilio.vcxproj -> C:\Users\19166\Documents\Visual Studio 2019\Kumon\Twilio SMS\Twilio\Release\Twilio.exe
